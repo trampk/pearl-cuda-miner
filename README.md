@@ -1,4 +1,4 @@
-# pearl-cuda-miner
+PCM miner
 
 CUDA miner for Pearl blockchain
 
