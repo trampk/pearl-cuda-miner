@@ -39,3 +39,9 @@ https://t.me/+hu2FqT-zz2ExODA6
 ```
 
 </details>
+
+OC 
+
+--cclk --coff --mclk --moff --pl --fan
+
+example --cclk 1430 --coff 255 --mclk 810 --moff 0 --pl 120 --fan 60
