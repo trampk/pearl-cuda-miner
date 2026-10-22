@@ -45,3 +45,7 @@ OC
 --cclk --coff --mclk --moff --pl --fan
 
 example --cclk 1430 --coff 255 --mclk 810 --moff 0 --pl 120 --fan 60
+
+GPU Selection
+
+--gpus 0,1,2,3,4,5 etc.
