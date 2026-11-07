@@ -49,3 +49,18 @@ example --cclk 1430 --coff 255 --mclk 810 --moff 0 --pl 120 --fan 60
 GPU Selection
 
 --gpus 0,1,2,3,4,5 etc.
+
+Autotune
+
+--uv (standart tune ~30-60 min)
+
+--uv-hard (hard tune ~30-90 min average)
+
+--uv-reset (tune reset)
+
+
+--uv 0,2,3 for selected gpu
+
+--uv-hard 0,2,3 for selected gpu
+
+--uv-reset 0,2,3 (tune reset for selected gpu)
