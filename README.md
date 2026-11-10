@@ -40,6 +40,8 @@ https://t.me/+hu2FqT-zz2ExODA6
 
 </details>
 
+press S to switch to extended statistics
+
 OC 
 
 --cclk --coff --mclk --moff --pl --fan
