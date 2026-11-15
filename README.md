@@ -15,7 +15,7 @@ https://t.me/+hu2FqT-zz2ExODA6
 
 ```json
 {
-  "name": "PCM miner 0.0.2y",
+  "name": "PCM miner 0.0.3a",
   "isFavorite": false,
   "items": [
     {
@@ -30,7 +30,7 @@ https://t.me/+hu2FqT-zz2ExODA6
         "algo": "pearlhash",
         "miner": "pcm-miner",
         "template": "%WAL%.%WORKER_NAME%",
-        "install_url": "https://github.com/trampk/pearl-cuda-miner/releases/download/v0.0.2y/pcm-miner-0.0.2y.tar.gz"
+        "install_url": "https://github.com/trampk/pearl-cuda-miner/releases/download/v0.0.3a/pcm-miner-0.0.3a.tar.gz"
       },
       "pool_geo": []
     }
@@ -42,17 +42,17 @@ https://t.me/+hu2FqT-zz2ExODA6
 
 press S to switch to extended statistics
 
-OC 
+OC:
 
 --cclk --coff --mclk --moff --pl --fan
 
 example --cclk 1430 --coff 255 --mclk 810 --moff 0 --pl 120 --fan 60
 
-GPU Selection
+GPU Selection:
 
 --gpus 0,1,2,3,4,5 etc.
 
-Autotune
+Autotune:
 
 --uv (standart tune ~30-60 min)
 
@@ -66,3 +66,12 @@ Autotune
 --uv-hard 0,2,3 for selected gpu
 
 --uv-reset 0,2,3 (tune reset for selected gpu)
+
+Voltage (experimentally):
+
+--vddc 855 (voltage change)
+
+--vddoff -30  (voltage offset)
+
+Example: --uv-hard --vddoff -10
+
