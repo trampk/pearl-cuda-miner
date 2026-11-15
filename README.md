@@ -69,9 +69,12 @@ AUTOTUNE:
 
 VOLTAGE (EXPERIMENALLY):
 
---vddc 855 (voltage change)
+--vddc (voltage change mV)
 
---vddoff -30  (voltage offset)
+--vddoff (voltage offset mV)
 
-Example: --uv-hard --vddoff -10
+Example: 
 
+--uv-hard --vddoff -10
+
+--vddc 855
