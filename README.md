@@ -48,11 +48,11 @@ OC:
 
 example --cclk 1430 --coff 255 --mclk 810 --moff 0 --pl 120 --fan 60
 
-GPU Selection:
+GPU SELECTION:
 
 --gpus 0,1,2,3,4,5 etc.
 
-Autotune:
+AUTOTUNE:
 
 --uv (standart tune ~30-60 min)
 
@@ -67,7 +67,7 @@ Autotune:
 
 --uv-reset 0,2,3 (tune reset for selected gpu)
 
-Voltage (experimentally):
+VOLTAGE (EXPERIMENALLY):
 
 --vddc 855 (voltage change)
 
