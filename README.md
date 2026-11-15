@@ -77,4 +77,6 @@ Example:
 
 --uv-hard --vddoff -10
 
+--vddoff -30
+
 --vddc 855
