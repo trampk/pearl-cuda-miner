@@ -69,7 +69,7 @@ AUTOTUNE:
 
 VOLTAGE (EXPERIMENALLY):
 
---vddc (voltage change mV)
+--vddc (set the voltage mV)
 
 --vddoff (voltage offset mV)
 
