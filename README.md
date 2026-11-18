@@ -15,7 +15,7 @@ https://t.me/+hu2FqT-zz2ExODA6
 
 ```json
 {
-  "name": "PCM miner 0.0.3a",
+  "name": "PCM miner 0.0.3b",
   "isFavorite": false,
   "items": [
     {
@@ -30,7 +30,7 @@ https://t.me/+hu2FqT-zz2ExODA6
         "algo": "pearlhash",
         "miner": "pcm-miner",
         "template": "%WAL%.%WORKER_NAME%",
-        "install_url": "https://github.com/trampk/pearl-cuda-miner/releases/download/v0.0.3a/pcm-miner-0.0.3a.tar.gz"
+        "install_url": "https://github.com/trampk/pearl-cuda-miner/releases/download/v0.0.3b/pcm-miner-0.0.3b.tar.gz"
       },
       "pool_geo": []
     }
